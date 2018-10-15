@@ -1,0 +1,8 @@
+[submodule "class/Utilities"]
+	path = class/Utilities
+	url = git@github.com:eighty20results/Utilities.git
+	branch = master
+[submodule "lib/plugin-updater"]
+	path = lib/plugin-updater
+	url = git@github.com:YahnisElsts/plugin-update-checker.git
+	branch = master
